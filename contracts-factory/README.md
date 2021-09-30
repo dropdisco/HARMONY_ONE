@@ -5,23 +5,13 @@
 
 `yarn`
 
-## Compile Contracts
+## Compile & Deploy Contracts
 
-`yarn compile`
+```jsx
+yarn deploy:harmony:mainnet
+```
 
-## Run Tests
-
-`yarn test`
-
-## Flatten Contracts
-
-`yarn flattener`
-
-## Flatten Contracts
-
-`yarn flattener`
-
-**RESULT**
+***##RESULT***
 
 ```jsx
 Starting migrations...
