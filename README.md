@@ -1,6 +1,11 @@
 
 # **Harmony - Bridging TradFi To DeFi**
 
+
+## **DEMO [Harmony Mainnet]** *[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app/)*
+
+## **VIDEO WORKFLOW** *#*
+
 ## Challenges: 
 
 ### *Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301*
@@ -23,12 +28,6 @@ Decentralized Protocol Optimizer for Multiple Exchanges
  <img src="./flow_staker@2x.png">
  </p>
  
-
-## **DEMO [Harmony Mainnet]** *[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app/)*
-
-
-
-## **VIDEO WORKFLOW** *#*
 
 
 ## Address Harmony Mainnet
