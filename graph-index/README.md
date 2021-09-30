@@ -16,8 +16,6 @@ yarn create:harmony
 yarn deploy:harmony
 ```
 
-
-
 ## **Sample Querry**
 
 ### UST TRACK
