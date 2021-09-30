@@ -17,9 +17,8 @@ yarn deploy:harmony
 
 ## **Sample Querry**
 
-```
+```jsx
 <!-- UST TRACK -->
-
 {
   token(id: "0x224e64ec1bdce3870a6a6c777edd450454068fec") {
     name
@@ -32,9 +31,9 @@ yarn deploy:harmony
     totalSupply
   }
 }
-
-
 ```
+
+```jsx
 <!-- TX & PAIR TRACK -->
 {
   dexsFactories {
@@ -45,8 +44,7 @@ yarn deploy:harmony
 }
 ```
 
-
-```
+```jsx
 {
   dexsFactories(first: 5) {
     id
@@ -61,7 +59,4 @@ yarn deploy:harmony
     decimals
   }
 }
-```
-```
-
 ```
