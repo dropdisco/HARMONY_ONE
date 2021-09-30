@@ -34,8 +34,8 @@
   },
   "scripts": {
     "deploy:ganache": "truffle migrate --network ganache",
-    "deploy:harmony:mainnet": "truffle migrate --network mainnet",
-    "deploy:harmony:testnet": "truffle migrate --network testnet",
+    "deploy:harmony:mainnet": "truffle migrate --network harmony",
+    "deploy:harmony:testnet": "truffle migrate --network harmony_testnet",
     "lint": "yarn prettier ./test/*.ts --check",
     "lint:fix": "yarn prettier ./test/*.ts --write",
     "clean": "rimraf ./build/",
