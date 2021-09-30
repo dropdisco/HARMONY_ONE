@@ -37,6 +37,8 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
+    "deploy:harmony:mainnet": "truffle migrate --network harmony",
+    "deploy:harmony:testnet": "truffle migrate --network harmony_testnet",
     "compile": "waffle .waffle.json",
     "flatt:master": "mkdir contracts/.flattened ./scripts/flattener.sh",
     "lint": "yarn prettier ./test/*.ts --check",
