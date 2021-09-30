@@ -3,8 +3,9 @@
 
 ## Challenges: 
 
-### *Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313*
+### *1. Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313*
 
+### *2. Challenge: Terra : https://gitcoin.co/issue/harmony-one/hackathon/30/100026314*
 
 
 
