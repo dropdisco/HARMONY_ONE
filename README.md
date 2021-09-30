@@ -2,9 +2,9 @@
 # **Harmony - Bridging TradFi To DeFi**
 
 
-## **DEMO [Harmony Mainnet]** *[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app/)*
+### **DEMO [Harmony Mainnet]** *[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app/)*
 
-## **VIDEO WORKFLOW** *#*
+### **VIDEO WORKFLOW** *#*
 
 ## Challenges: 
 
