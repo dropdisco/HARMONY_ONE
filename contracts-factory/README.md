@@ -11,7 +11,7 @@
 yarn deploy:harmony:mainnet
 ```
 
-***## RESULT***
+***RESULT***
 
 ```jsx
 Starting migrations...
