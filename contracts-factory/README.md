@@ -23,6 +23,7 @@
 
 **RESULT**
 
+```jsx
 Starting migrations...
 ======================
 > Network name:    'harmony'
@@ -212,3 +213,4 @@ Summary
 =======
 > Total deployments:   7
 > Final cost:          0.10481858 ETH
+```
