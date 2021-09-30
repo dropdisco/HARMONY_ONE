@@ -1,6 +1,7 @@
 
 <div align="center">
-## This is only static frontend repo
+ 
+## **This is only static frontend repo**
 
 ## **Reach me at linkedin for full frontend code**
 
