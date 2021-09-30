@@ -17,7 +17,8 @@ yarn deploy:harmony
 
 ## **Sample Querry**
 
-<!-- UST TRACK -->
+### UST TRACK
+
 ```jsx
 
 {
@@ -34,7 +35,7 @@ yarn deploy:harmony
 }
 ```
 
-<!-- TX & PAIR TRACK -->
+###  TX & PAIR TRACK
 ```jsx
 
 {
