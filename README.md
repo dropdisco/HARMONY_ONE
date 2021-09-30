@@ -4,15 +4,18 @@
 
 ### **DEMO [Harmony Mainnet]** **[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app)**
 
-
 ### **VIDEO WORKFLOW** **https://www.youtube.com/watch?v=swRyarDEzyk**
 
 
 ## Challenges: 
 
-### *Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301*
-
 ### *Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313*
+
+### Use Terra UST as a natice currency & value for tracking liquidity minning & token rewards : 
+
+1. https://github.com/Agin-DropDisco/HARMONY_ONE/tree/main/graph-index#ust-track
+2. https://github.com/Agin-DropDisco/HARMONY_ONE/blob/04fd17259f32201d84c974245fb14cec95265538/graph-index/src/commons/addresses.ts#L88
+3. 
 
 
 # DexSwap Finance ($DEXS)
