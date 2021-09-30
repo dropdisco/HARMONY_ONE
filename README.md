@@ -12,9 +12,6 @@
 
 ### *Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301*
 
-### *Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313*
-
-
 # DexSwap Finance ($DEXS)
 
 Decentralized Protocol Optimizer for Multiple Exchanges
