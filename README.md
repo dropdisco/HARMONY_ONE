@@ -4,7 +4,7 @@
 
 ### **DEMO [Harmony Mainnet]** **[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app/)**
 
-### **VIDEO WORKFLOW** *#*
+### **VIDEO WORKFLOW** **https://www.youtube.com/watch?v=swRyarDEzyk**
 
 ## Challenges: 
 
