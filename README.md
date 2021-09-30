@@ -16,19 +16,18 @@ Decentralized Protocol Optimizer for Multiple Exchanges
 
 ### User Workflow
 <p align="center">
- <img src="./USER-DATA.png">
+ <img src="./flow_staker@2x.png">
  </p>
  
 
-## **DEMO [Rinkeby & Mumbai Testnet]** *[https://dexswap-opendefi.netlify.app/](https://dexswap-opendefi.netlify.app)*
+## **DEMO [Harmony Mainnet]** *[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app/)*
 
 
 
-## **VIDEO WORKFLOW** *https://youtu.be/h6Z9I6uawLU*
+## **VIDEO WORKFLOW** *#*
 
 
-
-## Address Rinkeby *[Core & Router]*
+## Address Harmony Mainnet
 
 DexSwap Factory:  
 [0xE77A7C836720897cd3fBd6c0C0067C5Ca278603F](https://explorer.harmony.one/address/0xE77A7C836720897cd3fBd6c0C0067C5Ca278603F)
