@@ -1,15 +1,16 @@
 
 # **Harmony - Bridging TradFi To DeFi**
 
+## Challenges: 
+
+### *Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313*
+
+
+
 
 ### **DEMO [Harmony Mainnet]** **[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app)**
 
 ### **VIDEO WORKFLOW** **https://www.youtube.com/watch?v=swRyarDEzyk**
-
-
-## Challenges: 
-
-### *Track 1: Cross-Chain - “Liquidity” : https://gitcoin.co/issue/harmony-one/hackathon/18/100026313*
 
 ### Implementing  Terra UST as a native currency & value for tracking liquidity minning & token rewards in Graphql/Subgraph, see:
 
